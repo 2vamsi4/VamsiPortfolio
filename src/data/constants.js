@@ -162,14 +162,10 @@ export const experiences = [
     skills: [
       "ReactJS",
       "Redux",
-      "NodeJs",
       "Material UI",
       "HTML",
       "CSS",
       "JavaScript",
-      "Docker",
-      "AWS",
-      "MongoDB",
     ],
   },
   {
