@@ -1,24 +1,28 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
+### Weblink: [Live Website](https://vamsiportfolioweb.netlify.app/)
 ## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/bd1ed7fb-a328-4489-ba71-ceb4a2f3b341"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/ee5b4377-518e-45e7-9b2d-fd9aaf4dd75e"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/67cf23b0-061a-4308-8fd1-48b67b362a99"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/b8a9c9c1-11b8-42bf-b981-e12df5d84600"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/05ba915d-653d-4bc2-bd70-635ec0b35da6"/>
+
 
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [My Portfolio](#my-portfolio)
+    - [Weblink: Live Website](#weblink-live-website)
+  - [Some Images:](#some-images)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.
@@ -41,8 +45,8 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
+1. Clone the repository: `git clone https://github.com/2vamsi4/VamsiPortfolio.git`
+2. Navigate to the project directory: `cd VamsiPortfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
