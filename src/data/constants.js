@@ -8,10 +8,10 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/2vamsi4",
   resume:
-    "https://drive.google.com/file/d/1dg2gpjFuyHE8cRtFWCH9goP9zS_whYRa/view?usp=drivesdk",
+  "https://drive.google.com/file/d/1l6eirtIU7WG5G1zG-RzPtzoavy9up1uS/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/vamsi-katuri-a5b784257",
-  twitter: "",
-  insta: "",
+  twitter: "https://x.com/Vamsi_2K24?t=HkcNrAxsCMESdAlr-SGNzA&s=08",
+  insta: "https://www.instagram.com/2_vamsi_4/profilecard/?igsh=OWVlbWcydTNtbjgz",
   facebook: "",
 };
 
@@ -130,18 +130,18 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://content3.jdmagicbox.com/v2/comp/mumbai/c2/022pxx22.xx22.131125183929.k1c2/catalogue/jupiter-enterprises-solutions-thane-west-thane-ecommerce-website-development-services-planekxsza.jpg",
-    role: "Front-End Developer Intern",
-    company: "Pro Jupiter Infotech",
-    date: "March 2024 - August 2024",
-    desc: "Worked on react front-end development.",
+    img: "https://www.aivariant.com/wp-content/uploads/2021/01/ai_logo5_2-1.png",
+    role: "Full Stack Developer Developer Intern",
+    company: "AI VARIANT",
+    date: "JULY 2024 - OCT 2024",
+    desc: "Worked on react front-end and development and Integration.",
     skills: [
       "HTML",
       "CSS",
       "JavaScript",
       "React JS",
     ],
-    doc: "https://content3.jdmagicbox.com/v2/comp/mumbai/c2/022pxx22.xx22.131125183929.k1c2/catalogue/jupiter-enterprises-solutions-thane-west-thane-ecommerce-website-development-services-planekxsza.jpg",
+    doc: "",
   },
 ];
 
