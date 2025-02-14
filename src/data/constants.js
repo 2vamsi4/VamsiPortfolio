@@ -130,11 +130,26 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://media.licdn.com/dms/image/v2/C4E0BAQHTQWBybmV_ew/company-logo_200_200/company-logo_200_200/0/1630631822379/picktime_logo?e=2147483647&v=beta&t=eShv38aWQ_LkWiZymsa0_c-7lrtLhmqQPbiytA7jYMQ",
+    role: "Java Developer Intern",
+    company: "PICKTIME INDIA PRIVATE LIMITED",
+    date: "DEC 2024 - PRESENT",
+    desc: "Worked on back end development and Integration.",
+    skills: [
+      "Java",
+      "Spring MVC",
+      "JavaScript",
+      "JQUERY",
+    ],
+    doc: "",
+  },
+  {
+    id: 1,
     img: "https://www.aivariant.com/wp-content/uploads/2021/01/ai_logo5_2-1.png",
     role: "Full Stack Developer Developer Intern",
     company: "AI VARIANT",
     date: "JULY 2024 - OCT 2024",
-    desc: "Worked on react front-end and development and Integration.",
+    desc: "Worked on back end development and Integration.",
     skills: [
       "HTML",
       "CSS",
