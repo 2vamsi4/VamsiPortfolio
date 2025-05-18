@@ -140,6 +140,7 @@ export const experiences = [
       "Spring MVC",
       "JavaScript",
       "JQUERY",
+      "Backbone.js"
     ],
     doc: "",
   },
