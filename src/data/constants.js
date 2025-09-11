@@ -1,3 +1,5 @@
+import proJupiterImg from "../images/proJupiter.jpg";
+import aiVariant from "../images/aiVariant.jpg";
 export const Bio = {
   name: "Vamsi Kumar Katuri",
   roles: [
@@ -8,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/2vamsi4",
   resume:
-  "https://drive.google.com/file/d/1l6eirtIU7WG5G1zG-RzPtzoavy9up1uS/view?usp=drivesdk",
+  "https://drive.google.com/file/d/1FfqNdGIU5h-ZT1ltQZJcArcQKWesSp89/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/vamsi-katuri-a5b784257",
   twitter: "https://x.com/Vamsi_2K24?t=HkcNrAxsCMESdAlr-SGNzA&s=08",
   insta: "https://www.instagram.com/2_vamsi_4/profilecard/?igsh=OWVlbWcydTNtbjgz",
@@ -130,27 +132,28 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/C4E0BAQHTQWBybmV_ew/company-logo_200_200/company-logo_200_200/0/1630631822379/picktime_logo?e=2147483647&v=beta&t=eShv38aWQ_LkWiZymsa0_c-7lrtLhmqQPbiytA7jYMQ",
-    role: "Java Developer Intern",
-    company: "PICKTIME INDIA PRIVATE LIMITED",
-    date: "DEC 2024 - PRESENT",
-    desc: "Worked on back end development and Integration.",
+    img:proJupiterImg,
+    role: "Frontend Developer",
+    company: "ProJupiter Infotech",
+    date: "March 2024 - PRESENT",
+    desc: "Worked on Frontend development and Integration.",
     skills: [
-      "Java",
-      "Spring MVC",
+      "React.Js",
       "JavaScript",
       "JQUERY",
-      "Backbone.js"
+      "HTML5",
+      "CSS3",
+      "Bootstrap"
     ],
     doc: "",
   },
   {
     id: 1,
-    img: "https://www.aivariant.com/wp-content/uploads/2021/01/ai_logo5_2-1.png",
-    role: "Full Stack Developer Developer Intern",
+    img: aiVariant,
+    role: "Full Stack Developer Intern",
     company: "AI VARIANT",
     date: "JULY 2024 - OCT 2024",
-    desc: "Worked on back end development and Integration.",
+    desc: "Worked on Frontend development and Integration.",
     skills: [
       "HTML",
       "CSS",

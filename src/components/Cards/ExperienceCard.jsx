@@ -148,7 +148,7 @@ const ExperienceCard = ({ experience }) => {
     return (
         <Card>
             <Top>
-                <Image src={experience.img} />
+                <Image src={experience.img} alt="ProJupiter Logo" />
                 <Body>
                     <Role>{experience.role}</Role>
                     <Company>{experience.company}</Company>
